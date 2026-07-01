@@ -1,0 +1,188 @@
+canonical_identifier: bkk:krp/KR6v0048/v1
+canonical_location: https://kanripo.org/bkk/KR6v0048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大方便佛報恩經變經文偈頌
+  identifiers:
+    alt_id:
+    - W04n0037
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW04/ZW04n0037.xml
+    old_id: ZW04n0037
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0048_001.yaml, hash: 'sha256:bca3401fe2ab81d5fcf60fb4526a46a95aeabaf8c64699e07ab855548e74c0b0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0048_001.markers.yaml, hash: 'sha256:3365502d1d3e126ca117eda0feff2f88511e68dcad342bf932c9c743f3d34098'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 3145
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-2
+    span:
+    - body
+    - 187
+    - 187
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-3
+    span:
+    - body
+    - 189
+    - 189
+  label: 大方便佛偈語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-4
+    span:
+    - body
+    - 215
+    - 215
+  label: 大方便佛報恩經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-5
+    span:
+    - body
+    - 562
+    - 562
+  label: 佛因地修行捨身濟虎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-6
+    span:
+    - body
+    - 749
+    - 749
+  label: 釋迦因地割肉供父母
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-7
+    span:
+    - body
+    - 912
+    - 912
+  label: 釋迦因地鸚鵡行孝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-8
+    span:
+    - body
+    - 1109
+    - 1109
+  label: 釋迦因地行孝剜睛出髓為藥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-9
+    span:
+    - body
+    - 1257
+    - 1257
+  label: 釋迦佛因行孝證三十二相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-10
+    span:
+    - body
+    - 1439
+    - 1439
+  label: 釋迦因地雁書報太子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-11
+    span:
+    - body
+    - 1659
+    - 1659
+  label: 釋迦因地剜肉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-12
+    span:
+    - body
+    - 2028
+    - 2028
+  label: 釋迦佛因地為睒子行孝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-13
+    span:
+    - body
+    - 2248
+    - 2248
+  label: 釋迦佛因地修行捨身求法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-14
+    span:
+    - body
+    - 2650
+    - 2650
+  label: 釋迦牟尼佛詣父王所看病
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0048_ZW_001-mulu-15
+    span:
+    - body
+    - 2893
+    - 2893
+  label: 釋迦牟尼佛為末世眾生設化故擔父王棺
+  type: mulu
+  level: 1
+hash: sha256:385648764056b537afcd48a9ac0169091494785fa10639a40f52822c6f9e4e84
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
