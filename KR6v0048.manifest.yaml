@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0048_001.yaml, hash: 'sha256:bca3401fe2ab81d5fcf60fb4526a46a95aeabaf8c64699e07ab855548e74c0b0'}
+  - {seq: 1, filename: KR6v0048_001.yaml, hash: 'sha256:0607908ef864b3b8363cf9af0ed32027db6cf190dda908b102815c4db82138ee'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0048_001.markers.yaml, hash: 'sha256:3365502d1d3e126ca117eda0feff2f88511e68dcad342bf932c9c743f3d34098'}
+  - {seq: 1, role: markers, filename: assets/KR6v0048_001.markers.yaml, hash: 'sha256:ea744934168e51cd839d4b852aeeabb3cf0d22b1e78ad60e997d4e3bca9147b9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -180,9 +180,6 @@ table_of_contents:
   label: 釋迦牟尼佛為末世眾生設化故擔父王棺
   type: mulu
   level: 1
-hash: sha256:385648764056b537afcd48a9ac0169091494785fa10639a40f52822c6f9e4e84
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fc5aaa932238ae3af5ac25b47f6482637b18bd59fb5788301ebfcf7a965ef295
 editions:
 - short: ZW
